@@ -1,3 +1,5 @@
+<img width="1547" height="734" alt="project1dashboard" src="https://github.com/user-attachments/assets/5bf4bca0-df9a-4585-b7ff-16cb1ce8912c" />
+
 ☕ Coffee Shop Sales Analysis – Data Analytics Project using Microsoft Excel
 🔍 Project Overview
 
